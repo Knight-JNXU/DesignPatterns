@@ -5,6 +5,7 @@ import java.util.List;
 
 /**
  * Created by Knight_JXNU on 2016/11/23.
+ * 备忘录class
  */
 public class CareTaker {
     private List<Memento> mementoList = new ArrayList<Memento>();

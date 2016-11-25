@@ -2,6 +2,7 @@ package MementoPattern;
 
 /**
  * Created by Knight_JXNU on 2016/11/23.
+ * 发起人class
  */
 public class Originator {
     private String state;
